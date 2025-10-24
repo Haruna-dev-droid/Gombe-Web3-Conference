@@ -1,16 +1,16 @@
-import Salihi from "../assets/cjdt3l.jpg";
+import Salihi from "../assets/SALIHI.jpg";
 import Mahmoud from "../assets/speaker 1.jpg";
-import Gilbert from "../assets/speaker 2.jpg";
-import Damilola from "../assets/speaker 3.jpg";
-import Emeka from "../assets/speaker 4.jpg";
-import Amara from "../assets/speaker 5.jpg";
+import Gilbert from "../assets/JOE.jpg";
+import Damilola from "../assets/DAMILOLA.jpg";
+import Jibrin from "../assets/JIBIRN.jpg";
+import Adamu from "../assets/ADAMU.jpg";
 const speakers = [
   {
-    name: "Dr. Amara Bello",
-    title: "Blockchain Health Expert",
+    name: "GILBERT JOEKPATA",
+    title: "CEO Smart investors Lodge",
     profile:
-      "lorem fgdwqcfdfdd tyfeqwey qdffd qytfd qwtyfrq rytfrwqed ytfryyef tfvrweqrv ",
-    image: Emeka,
+      "Founder Smart investors lodge, crypto investment analyst, trend forecaster educating Africans on crypto with signals, strategy and research. ",
+    image: Gilbert,
   },
   {
     name: "MAHMOUD MUH’D SARDAUNA ",
@@ -20,31 +20,31 @@ const speakers = [
     image: Mahmoud,
   },
   {
-    name: "GILBERT JOEKPATA",
-    title: "Global Top 10 Analyst Lunarcrush",
-    profile:
-      "Founder Smart investors lodge, crypto investment analyst, trend forecaster educating Africans on crypto with signals, strategy and research. ",
-    image: Gilbert,
-  },
-  {
     name: "DR. DAMILOLA OGONTOLA",
-    title: "Medical Doctor",
+    title: "Medical Doctor, Co-founder of The Mirror Hub",
     profile:
       "Medical Doctor, community builder, project manager, co-founder The mirror hub",
     image: Damilola,
   },
   {
-    name: "Sophia Adeyemi",
-    title: "Blockchain Researcher",
+    name: " JIBRIL IBRAHIM ALIYU JIIBAL",
+    title: "COMMUNITY MANAGER, BD",
     profile:
-      "lorem fgdwqcfdfdd tyfeqwey qdffd qytfd qwtyfrq rytfrwqed ytfryyef tfvrweqrv ",
-    image: Amara,
+      "MANAGER, BD, AND THE CURRENT STATE MODERATOR, SuperteamNG Gombe state ",
+    image: Jibrin,
+  },
+  {
+    name: "ADAMU LAWAL",
+    title: "Community Manager, FIO Protocol",
+    profile:
+      "Community Manager FIO Protocol, Blockchain enthusiast, Crypto educator.",
+    image: Adamu,
   },
 ];
 
 const host = {
   name: "SALIHI IBRAHIM",
-  title: "Event Host & Founder MW3DAO",
+  title: "Founder and team lead MEDICSINWEB3DAO",
   profile:
     "Medical Laboratory Scientist, Founder and Team lead MEDICSINWEB3DAO.",
   image: Salihi,

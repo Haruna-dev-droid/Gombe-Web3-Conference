@@ -4,13 +4,18 @@ import Logo from "../assets/logo.png";
 function Footer() {
   return (
     <div className="p-20">
-      <div className="mb-10 text-center mx-auto bg-white p-10 rounded-full flex justify-center md:w-170  items-center flex-wrap gap-6 md:gap-15">
-        <p className="text-red-700 text-4xl text-center font-bold">
+      <div className="mb-10 text-center mx-auto bg-white md:p-10 p-5 rounded-lg md:rounded-full  flex  flex-wrap justify-center md:w-170  items-center  gap-6 md:gap-15">
+        <p className="text-red-700 text-lg  md:text-4xl text-center font-bold">
           Secure your slot now!
         </p>
-        <button className="bg-red-600 cursor-pointer text-center text-white px-6 py-3 rounded-full hover:bg-red-700 transition">
-          Register Now
-        </button>
+        <a
+          href="https://luma.com/iqbt2ojp"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-red-600 cursor-pointer md:text-lg text-sm w-32 text-white px-6 py-3 md:w-40 rounded-full hover:bg-red-700 transition"
+        >
+          Register
+        </a>
       </div>
       <div className="flex flex-col md:flex-row items-center justify-between">
         <img
@@ -27,6 +32,8 @@ function Footer() {
         href="https://x.com/Medicsinweb3?t=1F8Xa1DRC4-sv2b04glNDg&s=09"
         // aria-label={label}
         className="text-white font-bold"
+        target="_blank"
+        // rel="noopener noreferrer"
       >
         X (Twitter)MEDICS IN WEB3 DAO
       </a>

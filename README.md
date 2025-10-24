@@ -1,16 +1,36 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WEB3 GOMBE COMFERENCE WEBSITE
 
-Currently, two official plugins are available:
+🚀 Professional & Polished
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Web3 Conference Website – A modern, responsive website built for one of the biggest web3 events in Northern Nigeria.
+Built with React, Tailwind CSS, and JavaSCript to showcase event speakers, sessions, and registration in a seamless user experience.
 
-## React Compiler
+⚡ The Future Is Decentralized!
+Welcome to the Web3 Conference Website — a sleek, animated, and fully responsive platform that brings the energy of a live Web3 conference online.
+Built from scratch with React, TailwindCSS, and a touch of blockchain magic.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Features
 
-## Expanding the ESLint configuration
+🎤 Speaker Profiles — Highlight conference speakers with photos, bios, and session topics.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🗓️ Event Schedule — Interactive agenda showcasing sessions, workshops, and keynotes.
+
+🪩 Modern UI/UX — Fully responsive and visually dynamic interface using Tailwind CSS.
+
+⚡ Smooth Navigation — Built with React Router for seamless single-page transitions.
+
+📩 Registration Button — Redirects you fast efficiently to the reg page for Simple and Secure user registration.
+
+🛠️ Technologies Used
+
+React.js – Frontend library for building dynamic user interfaces.
+
+Tailwind CSS – Utility-first framework for fast and responsive styling.
+
+React Router – For smooth client-side page navigation.
+
+Developed by: Haruna-Dev
+📧 [samailah40@gmail.com
+]
