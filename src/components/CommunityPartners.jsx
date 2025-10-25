@@ -7,6 +7,8 @@ import SMARTIN from "../assets/SMART-IN.png";
 import THEMIRROR from "../assets/THE-MIRROR.png";
 import WAGA from "../assets/WAGA.png";
 import WETHEM from "../assets/WE-THEM.png";
+import BITKOVA from "../assets/BIKOVA.png";
+import HASH from "../assets/HASH.png";
 import useScrollAnimation from "./Animation";
 
 function CommunityPartners() {
@@ -45,6 +47,8 @@ function CommunityPartners() {
           <img src={THEMIRROR} alt="The Mirror Logo" className="md:w-40 w-32" />
           <img src={WAGA} alt="Waga Logo" className="md:w-40 w-32" />
           <img src={WETHEM} alt="We-Them Logo" className="md:w-40 w-32" />
+          <img src={BITKOVA} alt="Bitkova Logo" className="md:w-40 w-32" />
+          <img src={HASH} alt="Hash Logo" className="md:w-40 w-32" />
         </div>
       </div>
     </div>
